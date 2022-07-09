@@ -15,7 +15,10 @@ function App() {
 
         <Sidebar />
         <main>
-          <Post author="Lucas Faria" content="Lorem ipsum dolor sit amet consectetur..." />
+          <Post />
+          <Post />
+          <Post />
+          
         </main>
 
       </div>
